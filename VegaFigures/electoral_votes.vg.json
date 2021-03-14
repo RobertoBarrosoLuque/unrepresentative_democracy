@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "background": "white",
   "padding": 5,
-  "width": 1000,
-  "height": 1000,
+  "width": 1200,
+  "height": 900,
   "title": {
     "text": [
       "Electoral votes per 100,000 residents"

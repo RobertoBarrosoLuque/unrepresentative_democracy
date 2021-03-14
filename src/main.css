@@ -13,7 +13,7 @@ body {
 h4{
   position: absolute;
   text-align: center;
-  left:48.5%
+  left:47%
 }
 
 .txtimg{
@@ -137,6 +137,8 @@ a:hover {
   justify-content: center;
   align-items: center;
   background-color: #fff;
+  height: 1000px;
+  width: 1400px;
   transform: translate3d(0, 0, 0);
   -webkit-transform: translateX(5%)
 }
@@ -183,7 +185,7 @@ figure {
 
 scroll_text {
   position: relative;
-  padding-bottom: 20rem;
+  padding-bottom: 40rem;
   text-align: center;
   max-width: 50rem;
   left: 15%;
@@ -195,7 +197,7 @@ scroll_text {
   background-color: rgb(255, 255, 255);
   color: rgb(5, 5, 5);
   padding-top:15rem;
-  padding-bottom: 30rem;
+  padding-bottom: 10rem;
   padding-left: 5rem;
   padding-right: 0rem;
 }
@@ -244,13 +246,13 @@ conclusion{
   display: flex;
   max-width: 1000px;
   align-content: flex-start;
-  padding-top: 100px;
+  padding-top: 200px;
   margin-bottom: 0px;
   left:  28%;
 }
 
 div.sources{
-  position: absolute;
+  position: relative;
   padding-top: 100px;
   margin-bottom: 0px;
   color: rgb(5, 5, 5);

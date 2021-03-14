@@ -1,0 +1,2839 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "background": "white",
+  "padding": 5,
+  "width": 1000,
+  "height": 1000,
+  "title": {
+    "text": [
+      "Senators in congress per 100,000 residents"
+    ],
+    "fontSize": 34,
+    "frame": "group"
+  },
+  "style": "cell",
+  "data": [
+    {
+      "name": "data-c0b37ec7a222f3d0e9fa06c9c4a9ae0e",
+      "values": [
+        {
+          "%-electoral_votes": 1.67,
+          "%-population": 1.55,
+          "%-representatives": 1.61,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.19,
+          "Population": 4779736,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.04,
+          "State": "Alabama",
+          "State_Abbr": "AL",
+          "States": "Alabama",
+          "centroid_lat": 0.6499999999985311,
+          "centroid_lon": 15.000000000000002,
+          "state_code": "AL",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  14.000000000000002,
+                  0.10000000000279925
+                ],
+                [
+                  14.000000000000004,
+                  1.1999999999942628
+                ],
+                [
+                  14.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  16,
+                  1.1999999999942625
+                ],
+                [
+                  16,
+                  0.10000000000279931
+                ],
+                [
+                  14.999999999999998,
+                  -0.49999999999254446
+                ],
+                [
+                  14.000000000000002,
+                  0.10000000000279925
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.56,
+          "%-population": 0.23,
+          "%-representatives": 0.23,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.42,
+          "Population": 710231,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.28,
+          "State": "Alaska",
+          "State_Abbr": "AK",
+          "States": "Alaska",
+          "centroid_lat": 10.849999999921225,
+          "centroid_lon": 1.0000000000000002,
+          "state_code": "AK",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  -3.243383594935949e-20,
+                  10.299999999925182
+                ],
+                [
+                  0,
+                  11.399999999917213
+                ],
+                [
+                  0.9999999999999998,
+                  11.999999999912925
+                ],
+                [
+                  2,
+                  11.399999999917213
+                ],
+                [
+                  2,
+                  10.29999999992518
+                ],
+                [
+                  0.9999999999999998,
+                  9.699999999929574
+                ],
+                [
+                  -3.243383594935949e-20,
+                  10.299999999925182
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.04,
+          "%-population": 2.07,
+          "%-representatives": 2.07,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.17,
+          "Population": 6392017,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.03,
+          "State": "Arizona",
+          "State_Abbr": "AZ",
+          "States": "Arizona",
+          "centroid_lat": 2.349999999985355,
+          "centroid_lon": 5.999999999999999,
+          "state_code": "AZ",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  4.999999999999999,
+                  1.7999999999896081
+                ],
+                [
+                  5,
+                  2.8999999999810893
+                ],
+                [
+                  5.999999999999998,
+                  3.499999999976457
+                ],
+                [
+                  6.999999999999998,
+                  2.8999999999810897
+                ],
+                [
+                  6.999999999999999,
+                  1.7999999999896077
+                ],
+                [
+                  5.999999999999999,
+                  1.1999999999942628
+                ],
+                [
+                  4.999999999999999,
+                  1.7999999999896081
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.12,
+          "%-population": 0.94,
+          "%-representatives": 0.92,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.21,
+          "Population": 2915918,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.07,
+          "State": "Arkansas",
+          "State_Abbr": "AR",
+          "States": "Arkansas",
+          "centroid_lat": 2.349999999985355,
+          "centroid_lon": 11.999999999999998,
+          "state_code": "AR",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  10.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  11,
+                  2.8999999999810893
+                ],
+                [
+                  12,
+                  3.4999999999764575
+                ],
+                [
+                  12.999999999999998,
+                  2.8999999999810897
+                ],
+                [
+                  12.999999999999998,
+                  1.7999999999896072
+                ],
+                [
+                  11.999999999999996,
+                  1.1999999999942628
+                ],
+                [
+                  10.999999999999998,
+                  1.7999999999896077
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 10.22,
+          "%-population": 12.07,
+          "%-representatives": 12.18,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.15,
+          "Population": 37253956,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.01,
+          "State": "California",
+          "State_Abbr": "CA",
+          "States": "California",
+          "centroid_lat": 2.349999999985355,
+          "centroid_lon": 4,
+          "state_code": "CA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  3.0000000000000004,
+                  1.7999999999896081
+                ],
+                [
+                  3,
+                  2.8999999999810893
+                ],
+                [
+                  4,
+                  3.4999999999764575
+                ],
+                [
+                  5,
+                  2.8999999999810893
+                ],
+                [
+                  4.999999999999999,
+                  1.7999999999896081
+                ],
+                [
+                  4,
+                  1.1999999999942628
+                ],
+                [
+                  3.0000000000000004,
+                  1.7999999999896081
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.67,
+          "%-population": 1.63,
+          "%-representatives": 1.61,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.18,
+          "Population": 5029196,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.04,
+          "State": "Colorado",
+          "State_Abbr": "CO",
+          "States": "Colorado",
+          "centroid_lat": 4.049999999972234,
+          "centroid_lon": 6.999999999999998,
+          "state_code": "CO",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  5.999999999999998,
+                  3.499999999976457
+                ],
+                [
+                  5.999999999999999,
+                  4.5999999999679915
+                ],
+                [
+                  7.000000000000001,
+                  5.199999999963394
+                ],
+                [
+                  8,
+                  4.599999999967992
+                ],
+                [
+                  7.999999999999998,
+                  3.4999999999764575
+                ],
+                [
+                  6.999999999999998,
+                  2.8999999999810897
+                ],
+                [
+                  5.999999999999998,
+                  3.499999999976457
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.3,
+          "%-population": 1.16,
+          "%-representatives": 1.15,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.2,
+          "Population": 3574097,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.06,
+          "State": "Connecticut",
+          "State_Abbr": "CT",
+          "States": "Connecticut",
+          "centroid_lat": 5.749999999959213,
+          "centroid_lon": 21.999999999999996,
+          "state_code": "CT",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  20.999999999999996,
+                  5.19999999996339
+                ],
+                [
+                  21.000000000000004,
+                  6.2999999999550065
+                ],
+                [
+                  22.000000000000004,
+                  6.8999999999504595
+                ],
+                [
+                  22.999999999999996,
+                  6.299999999955005
+                ],
+                [
+                  22.999999999999996,
+                  5.199999999963392
+                ],
+                [
+                  21.999999999999996,
+                  4.5999999999679915
+                ],
+                [
+                  20.999999999999996,
+                  5.19999999996339
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.56,
+          "%-population": 0.19,
+          "%-representatives": 0.23,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.5,
+          "Population": 601723,
+          "Representatives per 100K": 0.17,
+          "Senators per 100K": 0.33,
+          "State": "Delaware",
+          "State_Abbr": "DE",
+          "States": "Delaware",
+          "centroid_lat": 4.049999999972233,
+          "centroid_lon": 18.999999999999996,
+          "state_code": "DE",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  17.999999999999993,
+                  3.4999999999764566
+                ],
+                [
+                  18,
+                  4.599999999967992
+                ],
+                [
+                  19,
+                  5.199999999963391
+                ],
+                [
+                  20,
+                  4.5999999999679915
+                ],
+                [
+                  20,
+                  3.4999999999764575
+                ],
+                [
+                  19.000000000000007,
+                  2.8999999999810897
+                ],
+                [
+                  17.999999999999993,
+                  3.4999999999764566
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 5.39,
+          "%-population": 6.09,
+          "%-representatives": 6.21,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.15,
+          "Population": 18801310,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.01,
+          "State": "Florida",
+          "State_Abbr": "FL",
+          "States": "Florida",
+          "centroid_lat": -2.74999999997514,
+          "centroid_lon": 17,
+          "state_code": "FL",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  16,
+                  -2.199999999979375
+                ],
+                [
+                  17.000000000000004,
+                  -1.5999999999840178
+                ],
+                [
+                  17.999999999999996,
+                  -2.199999999979376
+                ],
+                [
+                  18,
+                  -3.299999999970887
+                ],
+                [
+                  17.000000000000007,
+                  -3.8999999999662753
+                ],
+                [
+                  16,
+                  -3.2999999999708867
+                ],
+                [
+                  16,
+                  -2.199999999979375
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.97,
+          "%-population": 3.14,
+          "%-representatives": 3.22,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.17,
+          "Population": 9687653,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "Georgia",
+          "State_Abbr": "GA",
+          "States": "Georgia",
+          "centroid_lat": -1.049999999988285,
+          "centroid_lon": 16,
+          "state_code": "GA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  15.000000000000002,
+                  -1.599999999984017
+                ],
+                [
+                  14.999999999999998,
+                  -0.49999999999254446
+                ],
+                [
+                  16,
+                  0.10000000000279931
+                ],
+                [
+                  17,
+                  -0.49999999999254446
+                ],
+                [
+                  17.000000000000004,
+                  -1.5999999999840178
+                ],
+                [
+                  16,
+                  -2.199999999979375
+                ],
+                [
+                  15.000000000000002,
+                  -1.599999999984017
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.74,
+          "%-population": 0.44,
+          "%-representatives": 0.46,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.29,
+          "Population": 1360301,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.15,
+          "State": "Hawaii",
+          "State_Abbr": "HI",
+          "States": "Hawaii",
+          "centroid_lat": -2.749999999975139,
+          "centroid_lon": 0.9999999999999999,
+          "state_code": "HI",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  0,
+                  -3.2999999999708867
+                ],
+                [
+                  3.193795986550121e-20,
+                  -2.1999999999793753
+                ],
+                [
+                  0.9999999999999998,
+                  -1.5999999999840178
+                ],
+                [
+                  1.9999999999999996,
+                  -2.1999999999793745
+                ],
+                [
+                  2,
+                  -3.299999999970887
+                ],
+                [
+                  0.9999999999999998,
+                  -3.899999999966275
+                ],
+                [
+                  0,
+                  -3.2999999999708867
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.74,
+          "%-population": 0.51,
+          "%-representatives": 0.46,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.26,
+          "Population": 1567582,
+          "Representatives per 100K": 0.13,
+          "Senators per 100K": 0.13,
+          "State": "Idaho",
+          "State_Abbr": "ID",
+          "States": "Idaho",
+          "centroid_lat": 5.749999999959213,
+          "centroid_lon": 4,
+          "state_code": "ID",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  2.9999999999999996,
+                  5.19999999996339
+                ],
+                [
+                  2.9999999999999996,
+                  6.299999999955006
+                ],
+                [
+                  4,
+                  6.8999999999504595
+                ],
+                [
+                  5,
+                  6.299999999955006
+                ],
+                [
+                  4.999999999999999,
+                  5.19999999996339
+                ],
+                [
+                  3.9999999999999982,
+                  4.59999999996799
+                ],
+                [
+                  2.9999999999999996,
+                  5.19999999996339
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 3.72,
+          "%-population": 4.16,
+          "%-representatives": 4.14,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.16,
+          "Population": 12830632,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "Illinois",
+          "State_Abbr": "IL",
+          "States": "Illinois",
+          "centroid_lat": 5.749999999959212,
+          "centroid_lon": 12,
+          "state_code": "IL",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  10.999999999999998,
+                  5.1999999999633895
+                ],
+                [
+                  11.000000000000002,
+                  6.299999999955006
+                ],
+                [
+                  11.999999999999998,
+                  6.8999999999504595
+                ],
+                [
+                  12.999999999999998,
+                  6.299999999955006
+                ],
+                [
+                  12.999999999999996,
+                  5.1999999999633895
+                ],
+                [
+                  11.999999999999996,
+                  4.5999999999679915
+                ],
+                [
+                  10.999999999999998,
+                  5.1999999999633895
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.04,
+          "%-population": 2.1,
+          "%-representatives": 2.07,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.17,
+          "Population": 6483802,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.03,
+          "State": "Indiana",
+          "State_Abbr": "IN",
+          "States": "Indiana",
+          "centroid_lat": 5.749999999959213,
+          "centroid_lon": 13.999999999999998,
+          "state_code": "IN",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  12.999999999999996,
+                  5.1999999999633895
+                ],
+                [
+                  12.999999999999998,
+                  6.299999999955006
+                ],
+                [
+                  14.000000000000004,
+                  6.8999999999504595
+                ],
+                [
+                  14.999999999999995,
+                  6.299999999955005
+                ],
+                [
+                  14.999999999999995,
+                  5.19999999996339
+                ],
+                [
+                  14.000000000000002,
+                  4.5999999999679915
+                ],
+                [
+                  12.999999999999996,
+                  5.1999999999633895
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.12,
+          "%-population": 0.99,
+          "%-representatives": 0.92,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.2,
+          "Population": 3046355,
+          "Representatives per 100K": 0.13,
+          "Senators per 100K": 0.07,
+          "State": "Iowa",
+          "State_Abbr": "IA",
+          "States": "Iowa",
+          "centroid_lat": 5.749999999959213,
+          "centroid_lon": 10,
+          "state_code": "IA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.999999999999998,
+                  5.1999999999633895
+                ],
+                [
+                  8.999999999999998,
+                  6.299999999955005
+                ],
+                [
+                  10,
+                  6.8999999999504595
+                ],
+                [
+                  11.000000000000002,
+                  6.299999999955006
+                ],
+                [
+                  10.999999999999998,
+                  5.1999999999633895
+                ],
+                [
+                  9.999999999999996,
+                  4.599999999967992
+                ],
+                [
+                  8.999999999999998,
+                  5.1999999999633895
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.12,
+          "%-population": 0.92,
+          "%-representatives": 0.92,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.21,
+          "Population": 2853118,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.07,
+          "State": "Kansas",
+          "State_Abbr": "KS",
+          "States": "Kansas",
+          "centroid_lat": 2.349999999985355,
+          "centroid_lon": 10,
+          "state_code": "KS",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  8.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  8.999999999999996,
+                  2.8999999999810893
+                ],
+                [
+                  10,
+                  3.4999999999764575
+                ],
+                [
+                  11,
+                  2.8999999999810893
+                ],
+                [
+                  10.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  9.999999999999998,
+                  1.1999999999942625
+                ],
+                [
+                  8.999999999999998,
+                  1.7999999999896077
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.49,
+          "%-population": 1.41,
+          "%-representatives": 1.38,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.18,
+          "Population": 4339367,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.05,
+          "State": "Kentucky",
+          "State_Abbr": "KY",
+          "States": "Kentucky",
+          "centroid_lat": 4.0499999999722345,
+          "centroid_lon": 13,
+          "state_code": "KY",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  12,
+                  3.4999999999764575
+                ],
+                [
+                  11.999999999999996,
+                  4.5999999999679915
+                ],
+                [
+                  12.999999999999996,
+                  5.1999999999633895
+                ],
+                [
+                  14.000000000000002,
+                  4.5999999999679915
+                ],
+                [
+                  13.999999999999998,
+                  3.499999999976456
+                ],
+                [
+                  12.999999999999998,
+                  2.8999999999810897
+                ],
+                [
+                  12,
+                  3.4999999999764575
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.49,
+          "%-population": 1.47,
+          "%-representatives": 1.38,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.18,
+          "Population": 4533372,
+          "Representatives per 100K": 0.13,
+          "Senators per 100K": 0.04,
+          "State": "Louisiana",
+          "State_Abbr": "LA",
+          "States": "Louisiana",
+          "centroid_lat": 0.649999999998531,
+          "centroid_lon": 10.999999999999996,
+          "state_code": "LA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  9.999999999999995,
+                  0.1000000000027993
+                ],
+                [
+                  9.999999999999998,
+                  1.1999999999942625
+                ],
+                [
+                  10.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  11.999999999999996,
+                  1.1999999999942628
+                ],
+                [
+                  11.999999999999998,
+                  0.10000000000279927
+                ],
+                [
+                  11.000000000000002,
+                  -0.49999999999254446
+                ],
+                [
+                  9.999999999999995,
+                  0.1000000000027993
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.74,
+          "%-population": 0.43,
+          "%-representatives": 0.46,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.3,
+          "Population": 1328361,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.15,
+          "State": "Maine",
+          "State_Abbr": "ME",
+          "States": "Maine",
+          "centroid_lat": 10.849999999921225,
+          "centroid_lon": 23,
+          "state_code": "ME",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  22.000000000000004,
+                  11.399999999917211
+                ],
+                [
+                  22.999999999999996,
+                  11.999999999912925
+                ],
+                [
+                  23.999999999999996,
+                  11.399999999917211
+                ],
+                [
+                  23.999999999999993,
+                  10.299999999925182
+                ],
+                [
+                  22.999999999999996,
+                  9.699999999929574
+                ],
+                [
+                  22,
+                  10.299999999925184
+                ],
+                [
+                  22.000000000000004,
+                  11.399999999917211
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.86,
+          "%-population": 1.87,
+          "%-representatives": 1.84,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.17,
+          "Population": 5773552,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.03,
+          "State": "Maryland",
+          "State_Abbr": "MD",
+          "States": "Maryland",
+          "centroid_lat": 4.0499999999722345,
+          "centroid_lon": 16.999999999999996,
+          "state_code": "MD",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  16,
+                  3.4999999999764575
+                ],
+                [
+                  15.999999999999996,
+                  4.5999999999679915
+                ],
+                [
+                  17.000000000000004,
+                  5.19999999996339
+                ],
+                [
+                  18,
+                  4.599999999967992
+                ],
+                [
+                  17.999999999999993,
+                  3.4999999999764566
+                ],
+                [
+                  17.000000000000007,
+                  2.89999999998109
+                ],
+                [
+                  16,
+                  3.4999999999764575
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.04,
+          "%-population": 2.12,
+          "%-representatives": 2.07,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.17,
+          "Population": 6547629,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.03,
+          "State": "Massachusetts",
+          "State_Abbr": "MA",
+          "States": "Massachusetts",
+          "centroid_lat": 7.449999999946339,
+          "centroid_lon": 20.999999999999993,
+          "state_code": "MA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  19.99999999999999,
+                  6.8999999999504595
+                ],
+                [
+                  19.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  21,
+                  8.599999999937712
+                ],
+                [
+                  21.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  22.000000000000004,
+                  6.8999999999504595
+                ],
+                [
+                  21.000000000000004,
+                  6.2999999999550065
+                ],
+                [
+                  19.99999999999999,
+                  6.8999999999504595
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.97,
+          "%-population": 3.2,
+          "%-representatives": 3.22,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.16,
+          "Population": 9883640,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "Michigan",
+          "State_Abbr": "MI",
+          "States": "Michigan",
+          "centroid_lat": 7.449999999946342,
+          "centroid_lon": 15,
+          "state_code": "MI",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  13.999999999999995,
+                  7.999999999942184
+                ],
+                [
+                  14.999999999999998,
+                  8.599999999937706
+                ],
+                [
+                  15.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  16.000000000000004,
+                  6.899999999950459
+                ],
+                [
+                  14.999999999999995,
+                  6.299999999955005
+                ],
+                [
+                  14.000000000000004,
+                  6.8999999999504595
+                ],
+                [
+                  13.999999999999995,
+                  7.999999999942184
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.86,
+          "%-population": 1.72,
+          "%-representatives": 1.84,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.19,
+          "Population": 5303925,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.04,
+          "State": "Minnesota",
+          "State_Abbr": "MN",
+          "States": "Minnesota",
+          "centroid_lat": 7.449999999946339,
+          "centroid_lon": 8.999999999999996,
+          "state_code": "MN",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7.9999999999999964,
+                  6.899999999950459
+                ],
+                [
+                  7.999999999999998,
+                  7.999999999942184
+                ],
+                [
+                  8.999999999999998,
+                  8.599999999937708
+                ],
+                [
+                  9.999999999999995,
+                  7.999999999942184
+                ],
+                [
+                  10,
+                  6.8999999999504595
+                ],
+                [
+                  8.999999999999998,
+                  6.299999999955005
+                ],
+                [
+                  7.9999999999999964,
+                  6.899999999950459
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.12,
+          "%-population": 0.96,
+          "%-representatives": 0.92,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.2,
+          "Population": 2967297,
+          "Representatives per 100K": 0.13,
+          "Senators per 100K": 0.07,
+          "State": "Mississippi",
+          "State_Abbr": "MS",
+          "States": "Mississippi",
+          "centroid_lat": 0.6499999999985315,
+          "centroid_lon": 13,
+          "state_code": "MS",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  11.999999999999996,
+                  1.1999999999942628
+                ],
+                [
+                  12.999999999999998,
+                  1.7999999999896072
+                ],
+                [
+                  14.000000000000004,
+                  1.1999999999942628
+                ],
+                [
+                  14.000000000000002,
+                  0.10000000000279925
+                ],
+                [
+                  13.000000000000004,
+                  -0.4999999999925446
+                ],
+                [
+                  11.999999999999998,
+                  0.10000000000279927
+                ],
+                [
+                  11.999999999999996,
+                  1.1999999999942628
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.86,
+          "%-population": 1.94,
+          "%-representatives": 1.84,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.17,
+          "Population": 5988927,
+          "Representatives per 100K": 0.13,
+          "Senators per 100K": 0.03,
+          "State": "Missouri",
+          "State_Abbr": "MO",
+          "States": "Missouri",
+          "centroid_lat": 4.049999999972234,
+          "centroid_lon": 11,
+          "state_code": "MO",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  9.999999999999996,
+                  4.599999999967992
+                ],
+                [
+                  10.999999999999998,
+                  5.1999999999633895
+                ],
+                [
+                  11.999999999999996,
+                  4.5999999999679915
+                ],
+                [
+                  12,
+                  3.4999999999764575
+                ],
+                [
+                  11,
+                  2.8999999999810893
+                ],
+                [
+                  10,
+                  3.4999999999764575
+                ],
+                [
+                  9.999999999999996,
+                  4.599999999967992
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.56,
+          "%-population": 0.32,
+          "%-representatives": 0.23,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.3,
+          "Population": 989415,
+          "Representatives per 100K": 0.1,
+          "Senators per 100K": 0.2,
+          "State": "Montana",
+          "State_Abbr": "MT",
+          "States": "Montana",
+          "centroid_lat": 7.449999999946341,
+          "centroid_lon": 4.999999999999999,
+          "state_code": "MT",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  4,
+                  6.8999999999504595
+                ],
+                [
+                  3.999999999999999,
+                  7.999999999942182
+                ],
+                [
+                  4.9999999999999964,
+                  8.599999999937706
+                ],
+                [
+                  6,
+                  7.999999999942184
+                ],
+                [
+                  5.999999999999998,
+                  6.8999999999504595
+                ],
+                [
+                  5,
+                  6.299999999955006
+                ],
+                [
+                  4,
+                  6.8999999999504595
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.93,
+          "%-population": 0.59,
+          "%-representatives": 0.69,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.27,
+          "Population": 1826341,
+          "Representatives per 100K": 0.16,
+          "Senators per 100K": 0.11,
+          "State": "Nebraska",
+          "State_Abbr": "NE",
+          "States": "Nebraska",
+          "centroid_lat": 4.049999999972233,
+          "centroid_lon": 8.999999999999998,
+          "state_code": "NE",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7.999999999999998,
+                  3.4999999999764575
+                ],
+                [
+                  8,
+                  4.599999999967992
+                ],
+                [
+                  8.999999999999998,
+                  5.1999999999633895
+                ],
+                [
+                  9.999999999999996,
+                  4.599999999967992
+                ],
+                [
+                  10,
+                  3.4999999999764575
+                ],
+                [
+                  8.999999999999996,
+                  2.8999999999810893
+                ],
+                [
+                  7.999999999999998,
+                  3.4999999999764575
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.12,
+          "%-population": 0.87,
+          "%-representatives": 0.92,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.22,
+          "Population": 2700551,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.07,
+          "State": "Nevada",
+          "State_Abbr": "NV",
+          "States": "Nevada",
+          "centroid_lat": 4.0499999999722345,
+          "centroid_lon": 4.999999999999999,
+          "state_code": "NV",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  3.9999999999999982,
+                  4.59999999996799
+                ],
+                [
+                  4.999999999999999,
+                  5.19999999996339
+                ],
+                [
+                  5.999999999999999,
+                  4.5999999999679915
+                ],
+                [
+                  5.999999999999998,
+                  3.499999999976457
+                ],
+                [
+                  5,
+                  2.8999999999810893
+                ],
+                [
+                  4,
+                  3.4999999999764575
+                ],
+                [
+                  3.9999999999999982,
+                  4.59999999996799
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.74,
+          "%-population": 0.43,
+          "%-representatives": 0.46,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.3,
+          "Population": 1316470,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.15,
+          "State": "New Hampshire",
+          "State_Abbr": "NH",
+          "States": "New Hampshire",
+          "centroid_lat": 9.149999999933664,
+          "centroid_lon": 21.999999999999996,
+          "state_code": "NH",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  21,
+                  8.599999999937712
+                ],
+                [
+                  21.000000000000004,
+                  9.699999999929574
+                ],
+                [
+                  22,
+                  10.299999999925184
+                ],
+                [
+                  22.999999999999996,
+                  9.699999999929574
+                ],
+                [
+                  22.999999999999996,
+                  8.59999999993771
+                ],
+                [
+                  21.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  21,
+                  8.599999999937712
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.6,
+          "%-population": 2.85,
+          "%-representatives": 2.76,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.16,
+          "Population": 8791894,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "New Jersey",
+          "State_Abbr": "NJ",
+          "States": "New Jersey",
+          "centroid_lat": 5.749999999959214,
+          "centroid_lon": 20,
+          "state_code": "NJ",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  19,
+                  5.199999999963391
+                ],
+                [
+                  18.999999999999996,
+                  6.299999999955005
+                ],
+                [
+                  19.99999999999999,
+                  6.8999999999504595
+                ],
+                [
+                  21.000000000000004,
+                  6.2999999999550065
+                ],
+                [
+                  20.999999999999996,
+                  5.19999999996339
+                ],
+                [
+                  20,
+                  4.5999999999679915
+                ],
+                [
+                  19,
+                  5.199999999963391
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.93,
+          "%-population": 0.67,
+          "%-representatives": 0.69,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.24,
+          "Population": 2059179,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.1,
+          "State": "New Mexico",
+          "State_Abbr": "NM",
+          "States": "New Mexico",
+          "centroid_lat": 0.6499999999985315,
+          "centroid_lon": 6.999999999999998,
+          "state_code": "NM",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  5.999999999999998,
+                  0.10000000000279928
+                ],
+                [
+                  5.999999999999999,
+                  1.1999999999942628
+                ],
+                [
+                  6.999999999999999,
+                  1.7999999999896077
+                ],
+                [
+                  8,
+                  1.1999999999942625
+                ],
+                [
+                  7.9999999999999964,
+                  0.10000000000279924
+                ],
+                [
+                  7.000000000000002,
+                  -0.49999999999254435
+                ],
+                [
+                  5.999999999999998,
+                  0.10000000000279928
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 5.39,
+          "%-population": 6.28,
+          "%-representatives": 6.21,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.15,
+          "Population": 19378102,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.01,
+          "State": "New York",
+          "State_Abbr": "NY",
+          "States": "New York",
+          "centroid_lat": 7.449999999946341,
+          "centroid_lon": 18.99999999999999,
+          "state_code": "NY",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  17.999999999999996,
+                  6.8999999999504595
+                ],
+                [
+                  17.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  18.999999999999996,
+                  8.599999999937705
+                ],
+                [
+                  19.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  19.99999999999999,
+                  6.8999999999504595
+                ],
+                [
+                  18.999999999999996,
+                  6.299999999955005
+                ],
+                [
+                  17.999999999999996,
+                  6.8999999999504595
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.79,
+          "%-population": 3.09,
+          "%-representatives": 2.99,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.16,
+          "Population": 9535483,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "North Carolina",
+          "State_Abbr": "NC",
+          "States": "North Carolina",
+          "centroid_lat": 2.3499999999853554,
+          "centroid_lon": 18.000000000000004,
+          "state_code": "NC",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  17.000000000000007,
+                  1.7999999999896081
+                ],
+                [
+                  17.000000000000007,
+                  2.89999999998109
+                ],
+                [
+                  17.999999999999993,
+                  3.4999999999764566
+                ],
+                [
+                  19.000000000000007,
+                  2.8999999999810897
+                ],
+                [
+                  19.000000000000004,
+                  1.7999999999896077
+                ],
+                [
+                  17.999999999999996,
+                  1.1999999999942625
+                ],
+                [
+                  17.000000000000007,
+                  1.7999999999896081
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.56,
+          "%-population": 0.22,
+          "%-representatives": 0.23,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.45,
+          "Population": 672591,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.3,
+          "State": "North Dakota",
+          "State_Abbr": "ND",
+          "States": "North Dakota",
+          "centroid_lat": 7.449999999946341,
+          "centroid_lon": 6.999999999999999,
+          "state_code": "ND",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  5.999999999999998,
+                  6.8999999999504595
+                ],
+                [
+                  6,
+                  7.999999999942184
+                ],
+                [
+                  6.999999999999998,
+                  8.599999999937706
+                ],
+                [
+                  7.999999999999998,
+                  7.999999999942184
+                ],
+                [
+                  7.9999999999999964,
+                  6.899999999950459
+                ],
+                [
+                  6.999999999999998,
+                  6.299999999955006
+                ],
+                [
+                  5.999999999999998,
+                  6.8999999999504595
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 3.35,
+          "%-population": 3.74,
+          "%-representatives": 3.68,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.16,
+          "Population": 11536504,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "Ohio",
+          "State_Abbr": "OH",
+          "States": "Ohio",
+          "centroid_lat": 5.749999999959213,
+          "centroid_lon": 16,
+          "state_code": "OH",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  14.999999999999995,
+                  5.19999999996339
+                ],
+                [
+                  14.999999999999995,
+                  6.299999999955005
+                ],
+                [
+                  16.000000000000004,
+                  6.899999999950459
+                ],
+                [
+                  17.000000000000007,
+                  6.299999999955008
+                ],
+                [
+                  17.000000000000004,
+                  5.19999999996339
+                ],
+                [
+                  15.999999999999996,
+                  4.5999999999679915
+                ],
+                [
+                  14.999999999999995,
+                  5.19999999996339
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.3,
+          "%-population": 1.22,
+          "%-representatives": 1.15,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.19,
+          "Population": 3751351,
+          "Representatives per 100K": 0.13,
+          "Senators per 100K": 0.05,
+          "State": "Oklahoma",
+          "State_Abbr": "OK",
+          "States": "Oklahoma",
+          "centroid_lat": 0.6499999999985313,
+          "centroid_lon": 8.999999999999996,
+          "state_code": "OK",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7.9999999999999964,
+                  0.10000000000279924
+                ],
+                [
+                  8,
+                  1.1999999999942625
+                ],
+                [
+                  8.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  9.999999999999998,
+                  1.1999999999942625
+                ],
+                [
+                  9.999999999999995,
+                  0.1000000000027993
+                ],
+                [
+                  8.999999999999998,
+                  -0.49999999999254435
+                ],
+                [
+                  7.9999999999999964,
+                  0.10000000000279924
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.3,
+          "%-population": 1.24,
+          "%-representatives": 1.15,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.18,
+          "Population": 3831074,
+          "Representatives per 100K": 0.13,
+          "Senators per 100K": 0.05,
+          "State": "Oregon",
+          "State_Abbr": "OR",
+          "States": "Oregon",
+          "centroid_lat": 4.049999999972234,
+          "centroid_lon": 3,
+          "state_code": "OR",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  1.9999999999999996,
+                  4.59999999996799
+                ],
+                [
+                  2.9999999999999996,
+                  5.19999999996339
+                ],
+                [
+                  3.9999999999999982,
+                  4.59999999996799
+                ],
+                [
+                  4,
+                  3.4999999999764575
+                ],
+                [
+                  3,
+                  2.8999999999810893
+                ],
+                [
+                  2.0000000000000004,
+                  3.4999999999764584
+                ],
+                [
+                  1.9999999999999996,
+                  4.59999999996799
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 3.72,
+          "%-population": 4.11,
+          "%-representatives": 4.14,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.16,
+          "Population": 12702379,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "Pennsylvania",
+          "State_Abbr": "PA",
+          "States": "Pennsylvania",
+          "centroid_lat": 5.749999999959213,
+          "centroid_lon": 18,
+          "state_code": "PA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  17.000000000000004,
+                  5.19999999996339
+                ],
+                [
+                  17.000000000000007,
+                  6.299999999955008
+                ],
+                [
+                  17.999999999999996,
+                  6.8999999999504595
+                ],
+                [
+                  18.999999999999996,
+                  6.299999999955005
+                ],
+                [
+                  19,
+                  5.199999999963391
+                ],
+                [
+                  18,
+                  4.599999999967992
+                ],
+                [
+                  17.000000000000004,
+                  5.19999999996339
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.74,
+          "%-population": 0.34,
+          "%-representatives": 0.46,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.38,
+          "Population": 1052567,
+          "Representatives per 100K": 0.19,
+          "Senators per 100K": 0.19,
+          "State": "Rhode Island",
+          "State_Abbr": "RI",
+          "States": "Rhode Island",
+          "centroid_lat": 7.449999999946343,
+          "centroid_lon": 22.999999999999993,
+          "state_code": "RI",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  21.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  22.999999999999996,
+                  8.59999999993771
+                ],
+                [
+                  23.999999999999996,
+                  7.999999999942182
+                ],
+                [
+                  23.999999999999996,
+                  6.899999999950462
+                ],
+                [
+                  22.999999999999996,
+                  6.299999999955005
+                ],
+                [
+                  22.000000000000004,
+                  6.8999999999504595
+                ],
+                [
+                  21.999999999999996,
+                  7.999999999942184
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.67,
+          "%-population": 1.5,
+          "%-representatives": 1.61,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.19,
+          "Population": 4625364,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.04,
+          "State": "South Carolina",
+          "State_Abbr": "SC",
+          "States": "South Carolina",
+          "centroid_lat": 0.6499999999985319,
+          "centroid_lon": 17,
+          "state_code": "SC",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  16,
+                  0.10000000000279931
+                ],
+                [
+                  16,
+                  1.1999999999942625
+                ],
+                [
+                  17.000000000000007,
+                  1.7999999999896081
+                ],
+                [
+                  17.999999999999996,
+                  1.1999999999942625
+                ],
+                [
+                  17.999999999999993,
+                  0.10000000000279931
+                ],
+                [
+                  17,
+                  -0.49999999999254446
+                ],
+                [
+                  16,
+                  0.10000000000279931
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.56,
+          "%-population": 0.26,
+          "%-representatives": 0.23,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.37,
+          "Population": 814180,
+          "Representatives per 100K": 0.12,
+          "Senators per 100K": 0.25,
+          "State": "South Dakota",
+          "State_Abbr": "SD",
+          "States": "South Dakota",
+          "centroid_lat": 5.749999999959214,
+          "centroid_lon": 8.000000000000002,
+          "state_code": "SD",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  6.999999999999998,
+                  6.299999999955006
+                ],
+                [
+                  7.9999999999999964,
+                  6.899999999950459
+                ],
+                [
+                  8.999999999999998,
+                  6.299999999955005
+                ],
+                [
+                  8.999999999999998,
+                  5.1999999999633895
+                ],
+                [
+                  8,
+                  4.599999999967992
+                ],
+                [
+                  7.000000000000001,
+                  5.199999999963394
+                ],
+                [
+                  6.999999999999998,
+                  6.299999999955006
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.04,
+          "%-population": 2.06,
+          "%-representatives": 2.07,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.17,
+          "Population": 6346105,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.03,
+          "State": "Tennessee",
+          "State_Abbr": "TN",
+          "States": "Tennessee",
+          "centroid_lat": 2.349999999985354,
+          "centroid_lon": 14,
+          "state_code": "TN",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  12.999999999999998,
+                  2.8999999999810897
+                ],
+                [
+                  13.999999999999998,
+                  3.499999999976456
+                ],
+                [
+                  14.999999999999998,
+                  2.8999999999810893
+                ],
+                [
+                  14.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  14.000000000000004,
+                  1.1999999999942628
+                ],
+                [
+                  12.999999999999998,
+                  1.7999999999896072
+                ],
+                [
+                  12.999999999999998,
+                  2.8999999999810897
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 7.06,
+          "%-population": 8.14,
+          "%-representatives": 8.28,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.15,
+          "Population": 25145561,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.01,
+          "State": "Texas",
+          "State_Abbr": "TX",
+          "States": "Texas",
+          "centroid_lat": -1.0499999999882859,
+          "centroid_lon": 8,
+          "state_code": "TX",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  7,
+                  -1.599999999984017
+                ],
+                [
+                  7.000000000000002,
+                  -0.49999999999254435
+                ],
+                [
+                  7.9999999999999964,
+                  0.10000000000279924
+                ],
+                [
+                  8.999999999999998,
+                  -0.49999999999254435
+                ],
+                [
+                  9.000000000000002,
+                  -1.599999999984018
+                ],
+                [
+                  7.999999999999998,
+                  -2.1999999999793762
+                ],
+                [
+                  7,
+                  -1.599999999984017
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.12,
+          "%-population": 0.9,
+          "%-representatives": 0.92,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.22,
+          "Population": 2763885,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.07,
+          "State": "Utah",
+          "State_Abbr": "UT",
+          "States": "Utah",
+          "centroid_lat": 2.349999999985355,
+          "centroid_lon": 7.9999999999999964,
+          "state_code": "UT",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  6.999999999999998,
+                  2.8999999999810897
+                ],
+                [
+                  7.999999999999998,
+                  3.4999999999764575
+                ],
+                [
+                  8.999999999999996,
+                  2.8999999999810893
+                ],
+                [
+                  8.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  8,
+                  1.1999999999942625
+                ],
+                [
+                  6.999999999999999,
+                  1.7999999999896077
+                ],
+                [
+                  6.999999999999998,
+                  2.8999999999810897
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.56,
+          "%-population": 0.2,
+          "%-representatives": 0.23,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.48,
+          "Population": 625741,
+          "Representatives per 100K": 0.16,
+          "Senators per 100K": 0.32,
+          "State": "Vermont",
+          "State_Abbr": "VT",
+          "States": "Vermont",
+          "centroid_lat": 9.149999999933664,
+          "centroid_lon": 19.999999999999996,
+          "state_code": "VT",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  18.999999999999996,
+                  8.599999999937705
+                ],
+                [
+                  19.000000000000004,
+                  9.699999999929574
+                ],
+                [
+                  19.999999999999993,
+                  10.29999999992518
+                ],
+                [
+                  21.000000000000004,
+                  9.699999999929574
+                ],
+                [
+                  21,
+                  8.599999999937712
+                ],
+                [
+                  19.999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  18.999999999999996,
+                  8.599999999937705
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.42,
+          "%-population": 2.59,
+          "%-representatives": 2.53,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.16,
+          "Population": 8001024,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.02,
+          "State": "Virginia",
+          "State_Abbr": "VA",
+          "States": "Virginia",
+          "centroid_lat": 2.349999999985355,
+          "centroid_lon": 16.000000000000004,
+          "state_code": "VA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  14.999999999999998,
+                  2.8999999999810893
+                ],
+                [
+                  16,
+                  3.4999999999764575
+                ],
+                [
+                  17.000000000000007,
+                  2.89999999998109
+                ],
+                [
+                  17.000000000000007,
+                  1.7999999999896081
+                ],
+                [
+                  16,
+                  1.1999999999942625
+                ],
+                [
+                  14.999999999999998,
+                  1.7999999999896077
+                ],
+                [
+                  14.999999999999998,
+                  2.8999999999810893
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 2.23,
+          "%-population": 2.18,
+          "%-representatives": 2.3,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.18,
+          "Population": 6724540,
+          "Representatives per 100K": 0.15,
+          "Senators per 100K": 0.03,
+          "State": "Washington",
+          "State_Abbr": "WA",
+          "States": "Washington",
+          "centroid_lat": 7.449999999946341,
+          "centroid_lon": 3,
+          "state_code": "WA",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  1.9999999999999996,
+                  7.999999999942184
+                ],
+                [
+                  3,
+                  8.59999999993771
+                ],
+                [
+                  3.999999999999999,
+                  7.999999999942182
+                ],
+                [
+                  4,
+                  6.8999999999504595
+                ],
+                [
+                  2.9999999999999996,
+                  6.299999999955006
+                ],
+                [
+                  2,
+                  6.899999999950461
+                ],
+                [
+                  1.9999999999999996,
+                  7.999999999942184
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.93,
+          "%-population": 0.6,
+          "%-representatives": 0.69,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.27,
+          "Population": 1852994,
+          "Representatives per 100K": 0.16,
+          "Senators per 100K": 0.11,
+          "State": "West Virginia",
+          "State_Abbr": "WV",
+          "States": "West Virginia",
+          "centroid_lat": 4.049999999972233,
+          "centroid_lon": 14.999999999999995,
+          "state_code": "WV",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  13.999999999999998,
+                  3.499999999976456
+                ],
+                [
+                  14.000000000000002,
+                  4.5999999999679915
+                ],
+                [
+                  14.999999999999995,
+                  5.19999999996339
+                ],
+                [
+                  15.999999999999996,
+                  4.5999999999679915
+                ],
+                [
+                  16,
+                  3.4999999999764575
+                ],
+                [
+                  14.999999999999998,
+                  2.8999999999810893
+                ],
+                [
+                  13.999999999999998,
+                  3.499999999976456
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 1.86,
+          "%-population": 1.84,
+          "%-representatives": 1.84,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.18,
+          "Population": 5686986,
+          "Representatives per 100K": 0.14,
+          "Senators per 100K": 0.04,
+          "State": "Wisconsin",
+          "State_Abbr": "WI",
+          "States": "Wisconsin",
+          "centroid_lat": 7.449999999946343,
+          "centroid_lon": 10.999999999999996,
+          "state_code": "WI",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  9.999999999999995,
+                  7.999999999942184
+                ],
+                [
+                  11.000000000000004,
+                  8.59999999993771
+                ],
+                [
+                  11.999999999999995,
+                  7.999999999942184
+                ],
+                [
+                  11.999999999999998,
+                  6.8999999999504595
+                ],
+                [
+                  11.000000000000002,
+                  6.299999999955006
+                ],
+                [
+                  10,
+                  6.8999999999504595
+                ],
+                [
+                  9.999999999999995,
+                  7.999999999942184
+                ]
+              ]
+            ]
+          }
+        },
+        {
+          "%-electoral_votes": 0.56,
+          "%-population": 0.18,
+          "%-representatives": 0.23,
+          "%-senators": 2,
+          "Electoral votes per 100K": 0.53,
+          "Population": 563626,
+          "Representatives per 100K": 0.18,
+          "Senators per 100K": 0.35,
+          "State": "Wyoming",
+          "State_Abbr": "WY",
+          "States": "Wyoming",
+          "centroid_lat": 5.749999999959214,
+          "centroid_lon": 5.999999999999998,
+          "state_code": "WY",
+          "type": "Feature",
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  4.999999999999999,
+                  5.19999999996339
+                ],
+                [
+                  5,
+                  6.299999999955006
+                ],
+                [
+                  5.999999999999998,
+                  6.8999999999504595
+                ],
+                [
+                  6.999999999999998,
+                  6.299999999955006
+                ],
+                [
+                  7.000000000000001,
+                  5.199999999963394
+                ],
+                [
+                  5.999999999999999,
+                  4.5999999999679915
+                ],
+                [
+                  4.999999999999999,
+                  5.19999999996339
+                ]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "data_1",
+      "source": "data-c0b37ec7a222f3d0e9fa06c9c4a9ae0e",
+      "transform": [
+        {
+          "type": "extent",
+          "field": "Senators per 100K",
+          "signal": "layer_0_bin_maxbins_8_Senators_per_100K_extent"
+        },
+        {
+          "type": "bin",
+          "field": "Senators per 100K",
+          "as": [
+            "bin_maxbins_8_Senators per 100K",
+            "bin_maxbins_8_Senators per 100K_end"
+          ],
+          "signal": "layer_0_bin_maxbins_8_Senators_per_100K_bins",
+          "extent": {
+            "signal": "layer_0_bin_maxbins_8_Senators_per_100K_extent"
+          },
+          "maxbins": 8
+        },
+        {
+          "type": "geojson",
+          "fields": [
+            "centroid_lon",
+            "centroid_lat"
+          ],
+          "signal": "layer_0_geojson_0"
+        },
+        {
+          "type": "geopoint",
+          "projection": "projection",
+          "fields": [
+            "centroid_lon",
+            "centroid_lat"
+          ],
+          "as": [
+            "layer_0_x",
+            "layer_0_y"
+          ]
+        },
+        {
+          "type": "filter",
+          "expr": "isValid(datum[\"bin_maxbins_8_Senators per 100K\"]) && isFinite(+datum[\"bin_maxbins_8_Senators per 100K\"])"
+        }
+      ]
+    },
+    {
+      "name": "data_2",
+      "source": "data-c0b37ec7a222f3d0e9fa06c9c4a9ae0e",
+      "transform": [
+        {
+          "type": "geojson",
+          "fields": [
+            "centroid_lon",
+            "centroid_lat"
+          ],
+          "signal": "layer_1_geojson_0"
+        },
+        {
+          "type": "geopoint",
+          "projection": "projection",
+          "fields": [
+            "centroid_lon",
+            "centroid_lat"
+          ],
+          "as": [
+            "layer_1_x",
+            "layer_1_y"
+          ]
+        }
+      ]
+    }
+  ],
+  "projections": [
+    {
+      "name": "projection",
+      "size": {
+        "signal": "[width, height]"
+      },
+      "fit": {
+        "signal": "[layer_0_geojson_0, layer_1_geojson_0]"
+      }
+    }
+  ],
+  "marks": [
+    {
+      "name": "layer_0_marks",
+      "type": "symbol",
+      "style": [
+        "circle"
+      ],
+      "from": {
+        "data": "data_1"
+      },
+      "encode": {
+        "update": {
+          "opacity": {
+            "value": 0.7
+          },
+          "fill": {
+            "signal": "scale(\"color\", 0.5 * datum[\"bin_maxbins_8_Senators per 100K\"] + 0.5 * datum[\"bin_maxbins_8_Senators per 100K_end\"])"
+          },
+          "tooltip": {
+            "signal": "{\"State\": isValid(datum[\"State\"]) ? datum[\"State\"] : \"\"+datum[\"State\"], \"Senators per 100K\": format(datum[\"Senators per 100K\"], \"\"), \"%-population\": format(datum[\"%-population\"], \"\"), \"%-senators\": format(datum[\"%-senators\"], \"\")}"
+          },
+          "ariaRoleDescription": {
+            "value": "circle"
+          },
+          "description": {
+            "signal": "\"Senators ⇶: \" + (!isValid(datum[\"bin_maxbins_8_Senators per 100K\"]) || !isFinite(+datum[\"bin_maxbins_8_Senators per 100K\"]) ? \"null\" : format(datum[\"bin_maxbins_8_Senators per 100K\"], \"\") + \" – \" + format(datum[\"bin_maxbins_8_Senators per 100K_end\"], \"\")) + \"; centroid_lat: \" + (format(datum[\"centroid_lat\"], \"\")) + \"; centroid_lon: \" + (format(datum[\"centroid_lon\"], \"\")) + \"; Senators per 100K (binned): \" + (!isValid(datum[\"bin_maxbins_8_Senators per 100K\"]) || !isFinite(+datum[\"bin_maxbins_8_Senators per 100K\"]) ? \"null\" : format(datum[\"bin_maxbins_8_Senators per 100K\"], \"\") + \" – \" + format(datum[\"bin_maxbins_8_Senators per 100K_end\"], \"\")) + \"; State: \" + (isValid(datum[\"State\"]) ? datum[\"State\"] : \"\"+datum[\"State\"]) + \"; Senators per 100K: \" + (format(datum[\"Senators per 100K\"], \"\")) + \"; %-population: \" + (format(datum[\"%-population\"], \"\")) + \"; %-senators: \" + (format(datum[\"%-senators\"], \"\"))"
+          },
+          "x": {
+            "field": "layer_0_x"
+          },
+          "y": {
+            "field": "layer_0_y"
+          },
+          "size": {
+            "signal": "scale(\"size\", 0.5 * datum[\"bin_maxbins_8_Senators per 100K\"] + 0.5 * datum[\"bin_maxbins_8_Senators per 100K_end\"])"
+          },
+          "shape": {
+            "value": "circle"
+          }
+        }
+      }
+    },
+    {
+      "name": "layer_1_marks",
+      "type": "text",
+      "style": [
+        "text"
+      ],
+      "from": {
+        "data": "data_2"
+      },
+      "encode": {
+        "update": {
+          "fill": {
+            "value": "black"
+          },
+          "description": {
+            "signal": "\"centroid_lat: \" + (format(datum[\"centroid_lat\"], \"\")) + \"; centroid_lon: \" + (format(datum[\"centroid_lon\"], \"\")) + \"; state_code: \" + (isValid(datum[\"state_code\"]) ? datum[\"state_code\"] : \"\"+datum[\"state_code\"])"
+          },
+          "x": {
+            "field": "layer_1_x"
+          },
+          "y": {
+            "field": "layer_1_y"
+          },
+          "text": {
+            "signal": "isValid(datum[\"state_code\"]) ? datum[\"state_code\"] : \"\"+datum[\"state_code\"]"
+          },
+          "align": {
+            "value": "center"
+          },
+          "baseline": {
+            "value": "middle"
+          }
+        }
+      }
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "bin-ordinal",
+      "range": {
+        "scheme": "viridis"
+      },
+      "bins": {
+        "signal": "layer_0_bin_maxbins_8_Senators_per_100K_bins"
+      },
+      "interpolate": "hcl"
+    },
+    {
+      "name": "size",
+      "type": "linear",
+      "domain": {
+        "signal": "[layer_0_bin_maxbins_8_Senators_per_100K_bins.start, layer_0_bin_maxbins_8_Senators_per_100K_bins.stop]"
+      },
+      "range": [
+        4000,
+        12000
+      ],
+      "bins": {
+        "signal": "layer_0_bin_maxbins_8_Senators_per_100K_bins"
+      },
+      "zero": true
+    }
+  ],
+  "legends": [
+    {
+      "orient": "right",
+      "padding": 50,
+      "title": "Senators ⇶",
+      "titleOrient": "left",
+      "fill": "color",
+      "symbolType": "circle",
+      "encode": {
+        "symbols": {
+          "update": {
+            "opacity": {
+              "value": 0.7
+            }
+          }
+        }
+      }
+    }
+  ],
+  "config": {
+    "style": {
+      "cell": {
+        "stroke": null
+      }
+    }
+  }
+}

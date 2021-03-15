@@ -2,13 +2,13 @@
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "background": "white",
   "padding": 5,
-  "width": 1200,
-  "height": 900,
+  "width": 600,
+  "height": 400,
   "title": {
     "text": [
       "Senators in congress per 100,000 residents"
     ],
-    "fontSize": 34,
+    "fontSize": 22,
     "frame": "group"
   },
   "style": "cell",
@@ -2801,8 +2801,8 @@
         "signal": "[layer_0_bin_maxbins_8_Senators_per_100K_bins.start, layer_0_bin_maxbins_8_Senators_per_100K_bins.stop]"
       },
       "range": [
-        4000,
-        12000
+        1000,
+        7000
       ],
       "bins": {
         "signal": "layer_0_bin_maxbins_8_Senators_per_100K_bins"
@@ -2813,8 +2813,8 @@
   "legends": [
     {
       "orient": "right",
-      "padding": 50,
-      "title": "Senators ⇶",
+      "padding": 30,
+      "title": "Senators per 100k ⇶",
       "titleOrient": "left",
       "fill": "color",
       "symbolType": "circle",

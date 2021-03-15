@@ -11,7 +11,8 @@ import './main.css'
 // Create function to embed vega figures
 function embedPlot(spec, div_vis) {
   const fig = vegaEmbed(div_vis, spec, {
-    renderer: 'svg', "actions": false
+    tooltip: { theme: 'dark' },
+    renderer: 'svg', "actions": false,
   }).catch(console.warn);
   return fig
 }

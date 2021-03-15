@@ -1,14 +1,14 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "background": "white",
-  "padding": 5,
-  "width": 1200,
-  "height": 900,
+  "padding": 0,
+  "width": 600,
+  "height": 400,
   "title": {
     "text": [
       "What states have the most people?"
     ],
-    "fontSize": 32,
+    "fontSize": 22,
     "subtitle": "% of population per state",
     "frame": "group"
   },
@@ -2776,7 +2776,7 @@
             "signal": "scale(\"color\", 0.5 * datum[\"bin_maxbins_8_Population\"] + 0.5 * datum[\"bin_maxbins_8_Population_end\"])"
           },
           "tooltip": {
-            "signal": "{\"Percent population\": format(datum[\"%-population\"], \"\")}"
+            "signal": "{\"State\": isValid(datum[\"State\"]) ? datum[\"State\"] : \"\"+datum[\"State\"], \"Percent population\": format(datum[\"%-population\"], \"\")}"
           },
           "ariaRoleDescription": {
             "value": "circle"
@@ -2854,8 +2854,8 @@
         "signal": "[layer_0_bin_maxbins_8_Population_bins.start, layer_0_bin_maxbins_8_Population_bins.stop]"
       },
       "range": [
-        4000,
-        12000
+        1000,
+        7000
       ],
       "bins": {
         "signal": "layer_0_bin_maxbins_8_Population_bins"
@@ -2866,7 +2866,7 @@
   "legends": [
     {
       "orient": "right",
-      "title": "Population",
+      "title": "Population ⇶",
       "titleOrient": "left",
       "fill": "color",
       "symbolType": "circle",

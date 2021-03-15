@@ -2,8 +2,8 @@
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "background": "white",
   "padding": 5,
-  "width": 1200,
-  "height": 900,
+  "width": 750,
+  "height": 500,
   "title": {
     "text": [
       "Unequal vote shares across time"
@@ -5041,7 +5041,7 @@
       ]
     },
     {
-      "name": "Choose_year",
+      "name": "Year",
       "init": "1900",
       "bind": {
         "input": "range",
@@ -5056,7 +5056,7 @@
     },
     {
       "name": "Choose_tuple",
-      "update": "Choose_year !== null ? {fields: Choose_tuple_fields, values: [Choose_year]} : null"
+      "update": "Year !== null ? {fields: Choose_tuple_fields, values: [Year]} : null"
     },
     {
       "name": "Choose_tuple_fields",
@@ -5168,17 +5168,9 @@
         "data": "data_1",
         "field": "votes-population"
       },
-      "range": [
-        "#C3FFFF",
-        "#41FFFF",
-        "#00CCD9",
-        "#00A7E4",
-        "#006DD6",
-        "#005B97",
-        "#6D72BC",
-        "#3D478B",
-        "#000027"
-      ],
+      "range": {
+        "scheme": "viridis"
+      },
       "interpolate": "hcl",
       "zero": false
     },
@@ -5189,8 +5181,8 @@
         "signal": "[layer_0_bin_maxbins_10_votes_population_bins.start, layer_0_bin_maxbins_10_votes_population_bins.stop]"
       },
       "range": [
-        6000,
-        14000
+        4000,
+        10000
       ],
       "bins": {
         "signal": "layer_0_bin_maxbins_10_votes_population_bins"

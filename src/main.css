@@ -13,7 +13,7 @@ body {
 h4{
   position: absolute;
   text-align: center;
-  left:47%
+  left:45%
 }
 
 .txtimg{
@@ -98,7 +98,8 @@ a:hover {
   margin: 1.5rem auto;
   text-align: center;
   margin-bottom: 100px;
-
+  margin-right: auto;
+  margin-left: auto;
 }
 .container {
   display: flex;
@@ -176,6 +177,14 @@ a:hover {
   font-size: 8rem;
   font-weight: 900;
   color: #666;
+}
+
+.vega-bind{
+  font-weight: 900;
+  color: #000; 
+  font-weight: 900;
+  display: flex;
+  justify-content: space-evenly
 }
 
 figure {
@@ -257,7 +266,8 @@ conclusion{
   align-content: flex-start;
   padding-top: 100px;
   margin-bottom: 0px;
-  left: 15%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 div.sources{
@@ -265,5 +275,59 @@ div.sources{
   padding-top: 0px;
   margin-bottom: 100px;
   color: rgb(5, 5, 5);
-  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;}
+
+
+
+/* https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08 */
+.fade-in {
+    animation: fadeIn ease 6s;
+    -webkit-animation: fadeIn ease 6s;
+    -moz-animation: fadeIn ease 6s;
+    -o-animation: fadeIn ease 6s;
+    -ms-animation: fadeIn ease 6s;
+  }@keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+  }
 }

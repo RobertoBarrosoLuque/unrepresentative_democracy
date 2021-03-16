@@ -10,6 +10,7 @@ import './main.css'
 
 // Create function to embed vega figures
 function embedPlot(spec, div_vis) {
+
   const fig = vegaEmbed(div_vis, spec, {
     tooltip: { theme: 'dark' },
     renderer: 'svg', "actions": false,
@@ -60,24 +61,24 @@ function handleStepEnter(response) {
   if (response.index === 0) {
     // Population map
     const fig = embedPlot("./VegaFigures/population.vg.json", "#vis1")
-    console.log("Step 1")
-    console.log(fig)
+    // console.log("Step 1")
+    // console.log(fig)
   } else if (response.index === 1) {
     d3.selectAll("path").interrupt();
     // representatives map
     embedPlot("./VegaFigures/representatives.vg.json", "#vis1");
-    console.log("Step 2")
+    // console.log("Step 2")
   } else if (response.index === 2) {
     // Sentarors map
     embedPlot("./VegaFigures/senators.vg.json", "#vis1")
-    console.log("Step 3")
+    // console.log("Step 3")
   } else if (response.index === 3) {
     // electoral votes map
     embedPlot("./VegaFigures/electoral_votes.vg.json", "#vis1")
-    console.log("Step 4")
+    // console.log("Step 4")
   }
-  console.log("Response is.....")
-  console.log(response)
+  // console.log("Response is.....")
+  // console.log(response)
   handleResize();
 }
 

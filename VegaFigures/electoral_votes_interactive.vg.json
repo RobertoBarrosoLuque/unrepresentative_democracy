@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "background": "white",
-  "padding": 5,
+  "padding": 30,
   "width": 750,
   "height": 500,
   "title": {
@@ -10,8 +10,7 @@
     ],
     "fontSize": 24,
     "subtitle": [
-      "Percent of electoral votes divided by percent population for each state",
-      "Hover around each state to see their value"
+      "Percent of electoral votes divided by percent population for each state"
     ],
     "frame": "group"
   },
@@ -5100,7 +5099,7 @@
             "field": "votes-population"
           },
           "tooltip": {
-            "signal": "{\"State\": isValid(datum[\"State\"]) ? datum[\"State\"] : \"\"+datum[\"State\"], \"% electoral votes divided by % population\": format(datum[\"votes-population\"], \"\")}"
+            "signal": "{\"State\": isValid(datum[\"State\"]) ? datum[\"State\"] : \"\"+datum[\"State\"], \"Population\": isValid(datum[\"population\"]) ? datum[\"population\"] : \"\"+datum[\"population\"], \"Electoral votes\": isValid(datum[\"electoral votes\"]) ? datum[\"electoral votes\"] : \"\"+datum[\"electoral votes\"], \"Ratio %-electoral-votes to %-population\": format(datum[\"votes-population\"], \"\")}"
           },
           "ariaRoleDescription": {
             "value": "circle"
@@ -5181,13 +5180,32 @@
         "signal": "[layer_0_bin_maxbins_10_votes_population_bins.start, layer_0_bin_maxbins_10_votes_population_bins.stop]"
       },
       "range": [
-        4000,
-        10000
+        2000,
+        14000
       ],
       "bins": {
         "signal": "layer_0_bin_maxbins_10_votes_population_bins"
       },
       "zero": true
+    }
+  ],
+  "legends": [
+    {
+      "orient": "right",
+      "padding": 30,
+      "title": "% votes / % population ⇶",
+      "titleOrient": "left",
+      "fill": "color",
+      "symbolType": "circle",
+      "encode": {
+        "symbols": {
+          "update": {
+            "opacity": {
+              "value": 0.7
+            }
+          }
+        }
+      }
     }
   ],
   "config": {

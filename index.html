@@ -7,8 +7,8 @@
 
 <body>
   <a href="https://github.com/RobertoBarrosoLuque/unrepresentative_democracy" class="github-corner"
-    aria-label="View source on GitHub"><svg width="50" height="50" viewBox="0 0 250 250"
-      style="fill:#004891; color:#fff; position: fixed; top: 0; border: 0; right: 0;" aria-hidden="true">
+    aria-label="View source on GitHub"><svg width="100" height="100" viewBox="0 0 250 250"
+      style="fill:#004891; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true">
       <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
       <path
         d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2"
@@ -100,12 +100,12 @@
     <!--  graphic container  -->
     <div class='scroll__graphic'>
       <!--   actual graphic/chart   -->
-      <div id="vis1"></div>
+      <div id="vis1" class="fade-in"></div>
     </div>
     <!--  step/text container  -->
     <scroll_text>
       <div class='step' data-step='0'>
-        <h2>Population</h2>
+        <h2 class="intro__hed">Population</h2>
         <p>One of the bedrock principles of a democracy is the idea that decisions are made through majority consensus
           with each individual citizen decision maker having equal sway. As such, it is important to first understand
           how the American populace distributes across the country. It is obvious by looking at the map on the left
@@ -118,7 +118,7 @@
       </div>
 
       <div class='step' data-step='1'>
-        <h2>Representatives in Congress</h2>
+        <h2 class="intro__hed">Representatives in Congress</h2>
         <p>Despite the highly irregular population density across states, we can get insights into the distribution of
           democratic power by using a normalized measure such as the number of representatives per a hundred thousand
           residents. Ideally, we would want all citizens, regardless of their geography, to have equal representation in
@@ -130,7 +130,7 @@
         </p>
       </div>
       <div class='step' data-step='2'>
-        <h2>Senators in Congress</h2>
+        <h2 class="intro__hed">Senators in Congress</h2>
         <p>Unlike congress, whose apportionment of its four hundred and thirty-five seats is roughly based on the
           population of each state, the senate is divided equally among states with each state holding two senate seats.
           Obviously, when using the same measure as above, and calculating the number of senators per a hundred thousand
@@ -145,7 +145,7 @@
         </p>
       </div>
       <div class='step' data-step='3'>
-        <h2>The Electoral College</h2>
+        <h2 class="intro__hed">The Electoral College</h2>
         <p>There exist various arguments for the 2 senator per state rule, one, often mentioned, is that having two
           senators allows rural/sparsely populated states avoid being ruled by distant urban metropolis. Yet, such
           argument fails to hold water, since it is not only the senate but also the executive which is elected through

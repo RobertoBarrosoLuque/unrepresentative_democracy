@@ -9,3 +9,10 @@ All data presented in the project came originally from Census Data and is availa
 3. US Census apportionement and representatives: https://www.census.gov/data/tables/time-series/dec/apportionment-data-text.html
 
 All writing and opinions are my own. 
+
+Some usefull resources referenced while creating this project:
+1. Scrollama: https://pudding.cool/process/introducing-scrollama/
+2. Vega embed: https://github.com/vega/vega-embed
+3. CSS fade in transitions: https://medium.com/cloud-native-the-gathering/how-to-use-css-to-fade-in-and-fade-out-html-text-and-pictures-f45c11364f08
+
+Credits to Dominic Teo, Rob Mitchell, Oscar Noriega and Angelo Cozzubo for being terrific group members throughout this class and for their kind and thoughtfull reviews and suggestions.
